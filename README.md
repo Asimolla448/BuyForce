@@ -34,7 +34,7 @@ PORT=
 תפעיל את הטרמינל ותעקוב אחרי השלבים:
 1. cd backend 
 2. npm i 
-3. npx prisma migrate dev -n 
+3. npx prisma migrate dev -n init
 4. npx prisma generate 
 5. docker compose up --build  
 6. npm run start:dev
