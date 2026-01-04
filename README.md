@@ -30,6 +30,7 @@ REDIS_HOST=127.0.0.1
 REDIS_PORT=
 PORT=
 
+תפתח את ה-docker desktop
 ברגע שהשלמת את החסר 
 תפעיל את הטרמינל ותעקוב אחרי השלבים:
 1. cd backend 
